@@ -100,8 +100,6 @@ Shiny apps can easily be made from RStudio.
 * Create a new directory and an `app.R` file in one step. Click File > New Project. Select New Directory and Shiny Web Application
 ]
 
-Insert image of creating shiny app here.
-
 ---
 # Shiny app template
 
