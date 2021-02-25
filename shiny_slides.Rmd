@@ -954,5 +954,3 @@ shinyApp(ui, server)
 **Contact:** info@r-courses.com
 
 Main resource for these slides [Mastering Shiny E-book](https://mastering-shiny.org/) by Hadley Wickham
-
----
